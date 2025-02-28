@@ -1,0 +1,2 @@
+# greensulinya.github.io
+practicum
